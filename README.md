@@ -1,3 +1,5 @@
 # hello-world
 
-This is a test message!
+- Fork the repo
+- Clone the forked repo to local machine
+- Add "upstream" by commnd git remote add upstream <repo endpoint>
