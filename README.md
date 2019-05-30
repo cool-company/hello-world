@@ -5,4 +5,9 @@
 - Add "upstream" by commnd git remote add upstream <repo endpoint>
 
 
+Alex made changes to readme.
+another edit by alex ---------
+
+
 hi this is naga raghav!
+
